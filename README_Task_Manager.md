@@ -77,4 +77,4 @@ After completing this project, students will be able to:
 
 **Name:** Amartya Dhar Dwivedi
 
-**GitHub:** Amarty007
+**GitHub:** https://github.com/Amarty007
